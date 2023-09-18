@@ -15,6 +15,14 @@ General Tips To Drive Your Research At Mila
    Home <self>
    about
 
+.. warning::
+
+   This is not an offictial Mila document.
+
+.. note::
+
+   A (bad) pdf version of this document is available `here <https://tips-research-mila.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+
 
 .. include:: ./README.md
    :parser: myst_parser.sphinx_
