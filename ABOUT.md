@@ -2,11 +2,11 @@
 
 This guide was put together over the course of several years by (in chronological order):
 
-* Victor Schmidt,
-* Guillaume Alain,
-* Tristan Sylvain,
-* Tegan Maharaj,
-* Emmanuel Bengio,
+* Victor Schmidt
+* Guillaume Alain
+* Tristan Sylvain
+* Tegan Maharaj
+* Emmanuel Bengio
 * Tristan Deleu
 * Joey Bose
 
