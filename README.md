@@ -1,8 +1,6 @@
-# General Tips To Drive Your Research At Mila
-
 ## Introduction
 
-This document aims at helping Mila students navigate the research environment and the Mila community. It is a collection of pieces of advice from current and former Mila students and is therefore neither exhaustive nor entirely consistent: people will have different takes on what works or not, how to deal with research, mental health etc. Read carefully but not religiously: find what works for you!
+This document aims at helping Mila students navigate the research environment and the Mila community. It is a collection of pieces of advice from current and former Mila students and is therefore neither exhaustive nor entirely consistent: people will have different takes on what works or not, how to deal with research, mental health etc. **Read carefully but not religiously: find what works for you!**
 
 ## Meta: external resources to do good research
 
