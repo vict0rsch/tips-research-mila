@@ -10,8 +10,10 @@ General Tips To Drive Your Research At Mila
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
-   contributing.rst
+   Home <self>
+   about
 
 
 .. include:: ./README.md
