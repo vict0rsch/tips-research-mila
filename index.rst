@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. image:: /_static/images/2023_Twitter_Cover_1500x500_RVB.jpg
 
 General Tips To Drive Your Research At Mila
 ===========================================
