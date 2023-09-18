@@ -3,12 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-General Tips To Drive Your Research At Mila's documentation!
-============================================================
+
+General Tips To Drive Your Research At Mila
+===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   contributing.rst
 
 
 .. include:: ./README.md
