@@ -122,7 +122,7 @@ This document aims at helping Mila students navigate the research environment an
 
 - Use code versioning (**git**) and store commit hashes, branches and any relevant information to make that result reproducible. For others, but especially for others if you need to produce additional plots or tables in a rebuttal.
 
-- **Save your model checkpoints**. Whatever ends up in a paper should be kept safe (in a project folder, your $ARCHIVE, your $HOME, on your personal computer, whatever. Reference the ID of the checkpoint as a comment in the Latex code. This sounds obvious, but here's a scenario you should avoid:
+- **Save your model checkpoints**. Whatever ends up in a paper should be kept safe (in a project folder, your $ARCHIVE, your $HOME, on your personal computer, whatever). Reference the ID of the checkpoint as a comment in the Latex code. Remember $SCRATCH is not safe, it's purged regularly. This sounds obvious, but here's a scenario you should avoid:
 
   - Work for months on a paper
   - Save hundreds of checkpoints on $SCRATCH
