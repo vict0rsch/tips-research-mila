@@ -6,38 +6,38 @@ This document aims at helping Mila students navigate the research environment an
 
 - The scientific process
 
-  - Hamming, "You and Your Research" (June 6, 1995) <https://www.youtube.com/watch?v=a1zDuOPkMSw>
+  - Hamming, [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) June 6th, 1995 (YouTube)
 
 - Scientific project definition
 
-  - John Cleese on Creativity In Management  <https://www.youtube.com/watch?v=Pb5oIIPO62g>
+  - John Cleese on [Creativity In Management](https://www.youtube.com/watch?v=Pb5oIIPO62g) (YouTube)
 
 - Writing an article
 
-  - Simon Peyton Jones, "How to Write a Great Research Paper" <https://www.youtube.com/watch?v=WP-FkUaOcOM>
-  - [awesome-computer-vision/Resources for students](https://github.com/jbhuang0604/awesome-computer-vision#resources-for-students)
+  - Simon Peyton Jones, [How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM) (YouTube)
+  - [awesome-computer-vision/Resources for students](https://github.com/jbhuang0604/awesome-computer-vision#resources-for-students) (Github)
 
 - Writing reviews
 
-  - [__Peer Review_, Fredo Durand, 2009 (slides)_](https://people.csail.mit.edu/fredo/review.pdf)
+  - Fredo Durand, 2009, [Peer Review](https://people.csail.mit.edu/fredo/review.pdf) (Slides)
 
 - Writing rebuttals
 
-  - How we write rebuttals (Devi Parikh, Dhruv Batra, Stefan Lee, 2020) <https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1>
+  - [How we write rebuttals](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1), Devi Parikh, Dhruv Batra, Stefan Lee, 2020 (Blog)
 
 - Presenting your work
 
-  - [Giving a Research Talk, Fredo Durand (MIT CSAIL)](https://people.csail.mit.edu/fredo/TalkAdvice.pdf)
-  - [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf)
-  - [Designing conference posters](https://colinpurrington.com/tips/poster-design/)
+  - [Giving a Research Talk, Fredo Durand (MIT CSAIL)](https://people.csail.mit.edu/fredo/TalkAdvice.pdf) (PDF)
+  - [How to give a good talk](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf) (Slides)
+  - [Designing conference posters](https://colinpurrington.com/tips/poster-design/) (Blog)
 
 - General advice
 
-  - [Lessons from my PhD](https://austinhenley.com/blog/lessonsfrommyphd.html#leadorbeled), Austin Z. Henley, 2021
-  - [HOWTO: The Reasoning and Learning Lab](https://hackmd.io/@jlebensold/Syi-NmJbu) - Various Artists, 2021
-  - [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf) - Michael Lones, 2023
-  - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) - John Schulman, 2017
-  - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035v1.pdf) - Togelius & Yannakakis, 2023
+  - [Lessons from my PhD](https://austinhenley.com/blog/lessonsfrommyphd.html#leadorbeled), Austin Z. Henley, 2021 (Blog)
+  - [HOWTO: The Reasoning and Learning Lab](https://hackmd.io/@jlebensold/Syi-NmJbu) - Various Artists, 2021 (Blog)
+  - [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf) - Michael Lones, 2023 (ArXiv)
+  - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) - John Schulman, 2017 (Blog)
+  - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035v1.pdf) - Togelius & Yannakakis, 2023 (ArXiv)
 
 - Slack
 
@@ -50,8 +50,8 @@ This document aims at helping Mila students navigate the research environment an
 
 - Experiments
 
-  - [Writing Code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)
-  - [10 tips for machine learning experiment tracking and reproducibility: Do it yourself approach without additional tooling](https://developer.ibm.com/blogs/10-diy-tips-for-machine-learning-experiment-tracking-and-reproducibility/)
+  - [Writing Code for NLP Research](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p) (Slides)
+  - [10 tips for machine learning experiment tracking and reproducibility: Do it yourself approach without additional tooling](https://developer.ibm.com/blogs/10-diy-tips-for-machine-learning-experiment-tracking-and-reproducibility/) (Blog)
 
 - Reference managers
 
