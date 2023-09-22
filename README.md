@@ -150,7 +150,7 @@ This document aims at helping Mila students navigate the research environment an
 
 - Graduate school is a time of great **freedom to learn** beyond your own specialty. You are surrounded by experts in many fields, at Mila and in Montreal’s universities. If you can, take the opportunities to discover new disciplines and better understand their research problems and their approaches. You may find an opportunity to apply ML to a new problem, or an insight that will shed a new light on your own research problem. In any case, you will develop a better general scientific knowledge.
 
-- A crucial skill you will learn to developp is to identify (and shape) **ideas worth pursuing**. You can do this by drafting them as if writing a paper, including mathematical definitions, assumptions, hypotheses, and potential results. This process will help you uncover gaps in the ideas and give you an estimation of the necessary work, before even starting experiments.
+- A crucial skill you will learn to develop is to identify (and shape) **ideas worth pursuing**. You can do this by drafting them as if writing a paper, including mathematical definitions, assumptions, hypotheses, and potential results. This process will help you uncover gaps in the ideas and give you an estimation of the necessary work, before even starting experiments.
 
 
 ### Be a good peer
