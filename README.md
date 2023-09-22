@@ -41,12 +41,12 @@ This document aims at helping Mila students navigate the research environment an
 
 - Slack
 
-  - \#slow-science
-  - \#academic-wisdom-and-advice
-  - \#mila-office-hours
-  - \#help
-  - \#mental-health
-  - \#codingtips
+  - [\#slow-science](https://mila-umontreal.slack.com/archives/C01C59J8T2N)
+  - [\#academic-wisdom-and-advice](https://mila-umontreal.slack.com/archives/C02J5KAN90T)
+  - [\#mila-office-hours](https://mila-umontreal.slack.com/archives/C0560PXP8KA)
+  - [\#help](https://mila-umontreal.slack.com/archives/CB9ELF65A)
+  - [\#mental-health](https://mila-umontreal.slack.com/archives/CQ52A1257)
+  - [\#codingtips](https://mila-umontreal.slack.com/archives/C3PE2V05V)
 
 - Experiments
 
