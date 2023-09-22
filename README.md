@@ -148,6 +148,11 @@ This document aims at helping Mila students navigate the research environment an
       - "I will work on this project 5-10 hours a week so I'm ok being middle author. I want this project to succeed but I cannot/don't want to lead it myself."
       - "As a postdoc, it will be important for me to show I can supervise students and a project altogether. I know PIs are generally last authors, but this project would be particularly important in my future career".
 
+- Graduate school is a time of great **freedom to learn** beyond your own specialty. You are surrounded by experts in many fields, at Mila and in Montreal’s universities. If you can, take the opportunities to discover new disciplines and better understand their research problems and their approaches. You may find an opportunity to apply ML to a new problem, or an insight that will shed a new light on your own research problem. In any case, you will develop a better general scientific knowledge.
+
+- A crucial skill you will learn to develop is to identify (and shape) **ideas worth pursuing**. You can do this by drafting them as if writing a paper, including mathematical definitions, assumptions, hypotheses, and potential results. This process will help you uncover gaps in the ideas and give you an estimation of the necessary work, before even starting experiments.
+
+
 ### Be a good peer
 
 - **Spend time at Mila** physically. Good random encounters will happen if you give them a chance to happen — think about it like a Binomial(n,p) where you want n to be large when p is fixed.
@@ -225,6 +230,8 @@ This document aims at helping Mila students navigate the research environment an
   - Sometimes, it's easier to be off when others are off too: there won't be emails or Slack messages that will trigger FOMO (fear of missing out) or stress. This will typically be mid July -> mid August and around Christmas. And there will be less work to catch up with when you come back.
 
 - Know thyself! Embrace your way of working. There is no one size fits all recipe to grow as a researcher. Research and life would be boring otherwise. Accept there might be ups and downs. Don't give up.
+
+- It’s okay to consider quitting your program. It’s important to give yourself the option, so as not to feel trapped. If you choose to do something else, it's perfectly fine! If you decide to stay, great! It would be for the right reasons.
 
 ### General First year advice
 
