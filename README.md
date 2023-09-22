@@ -231,6 +231,8 @@ This document aims at helping Mila students navigate the research environment an
 
 - Know thyself! Embrace your way of working. There is no one size fits all recipe to grow as a researcher. Research and life would be boring otherwise. Accept there might be ups and downs. Don't give up.
 
+- It’s okay to consider quitting your program. It’s important to give yourself the option, so as not to feel trapped. If you choose to do something else, it's perfectly fine! If you decide to stay, great! It would be for the right reasons.
+
 ### General First year advice
 
 - Your "first year" is not necessarily 12 months, it can be a bit more, the following are pieces of advice for the beginning of your PhD, typically before your predoc.
