@@ -229,7 +229,7 @@ This document aims at helping Mila students navigate the research environment an
   - Again, be a good peer: warn your collaborators in advance about when you'll be off.
   - Sometimes, it's easier to be off when others are off too: there won't be emails or Slack messages that will trigger FOMO (fear of missing out) or stress. This will typically be mid July -> mid August and around Christmas. And there will be less work to catch up with when you come back.
 
-- Know thyself! Embrace your way of working. There is no one size fits all recipe to grow as a researcher. Research and life would be boring otherwise. Accept there might be ups and downs. Don't give up.
+- Know thyself! Embrace your way of working. There is no one size fits all recipe to grow as a researcher. Research and life would be boring otherwise. Accept there might be ups and downs. Don't give up (within decent limits of your well-being).
 
 - It’s okay to consider quitting your program. It’s important to give yourself the option, so as not to feel trapped. If you choose to do something else, it's perfectly fine! If you decide to stay, great! It would be for the right reasons.
 
