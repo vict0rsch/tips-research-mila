@@ -9,6 +9,7 @@ This guide was put together over the course of several years by (in chronologica
 * Emmanuel Bengio
 * Tristan Deleu
 * Joey Bose
+* Vincent Mai
 
 ## Contributing
 
