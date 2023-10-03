@@ -152,6 +152,7 @@ This document aims at helping Mila students navigate the research environment an
 
 - A crucial skill you will learn to develop is to identify (and shape) **ideas worth pursuing**. You can do this by drafting them as if writing a paper, including mathematical definitions, assumptions, hypotheses, and potential results. This process will help you uncover gaps in the ideas and give you an estimation of the necessary work, before even starting experiments.
 
+- Create a professional **website** so that people can learn about your work and research interests. As a good starting point, you can create a profile on the Mila website, with your contact information and a short bio. For more flexibility, it is recommended to create your own website, that also includes an updated CV and a list of your papers. You can use a framework such as [Jekyll](https://jekyllrb.com/) to create your own static website, and you can host it on [Github Pages](https://pages.github.com/).
 
 ### Be a good peer
 
